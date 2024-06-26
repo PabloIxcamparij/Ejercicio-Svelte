@@ -1,0 +1,13 @@
+[
+    { "id": 1, "nombre": "Hamburguesa", "precio": 5.99 },
+    { "id": 2, "nombre": "Pizza", "precio": 8.99 },
+    { "id": 3, "nombre": "Hot Dog", "precio": 3.49 },
+    { "id": 4, "nombre": "Tacos", "precio": 4.99 },
+    { "id": 5, "nombre": "Sándwich", "precio": 5.49 },
+    { "id": 6, "nombre": "Papas Fritas", "precio": 2.99 },
+    { "id": 7, "nombre": "Alitas de Pollo", "precio": 7.99 },
+    { "id": 8, "nombre": "Nachos", "precio": 6.49 },
+    { "id": 9, "nombre": "Ensalada", "precio": 4.49 },
+    { "id": 10, "nombre": "Burrito", "precio": 6.99 }
+  ]
+  
